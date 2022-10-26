@@ -81,10 +81,10 @@ Here are some ideas to get you started:
 </p>
 
 <p>
-<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raziqali0306&show_icons=true&locale=en&layout=compact" alt="raziqali0306" />
--->
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imtiaz-abbas&show_icons=true&locale=en&layout=compact" alt="raziqali0306" />
+
 </p>
 
 <p>&nbsp;
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=raziqali0306&show_icons=true&locale=en" alt="raziqali0306" /> -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=imtiaz-abbas&show_icons=true&locale=en" alt="raziqali0306" />
 </p>
